@@ -2,7 +2,7 @@
 <h1> Insecure Node app </h1>
 </div>
 
-[![CI Pipeline](https://github.com/martinrodriguezbj/insecure-node-app/actions/workflows/ci.yml/badge.svg)](https://github.com/martinrodriguezbj/insecure-node-app/actions)
+[![CI Pipeline](https://github.com/martinrodriguezbj/insecure-node-app/actions/workflows/ci.yaml/badge.svg)](https://github.com/martinrodriguezbj/insecure-node-app/actions/workflows/ci.yaml)
 
 Este proyecto contiene una aplicación backend hecha en Node.js con Express,
 intencionalmente insegura y mal estructurada.
